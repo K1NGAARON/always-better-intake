@@ -1,3 +1,7 @@
 .header .icon {
     display: none;
 }
+
+.banner .row img {
+    margin-top: 20px;
+}
