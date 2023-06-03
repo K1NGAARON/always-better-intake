@@ -5,3 +5,8 @@
 .banner .row img {
     margin-top: 20px;
 }
+
+.banner h1,
+.banner p {
+    color: var(--white);
+}
